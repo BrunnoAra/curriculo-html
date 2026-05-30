@@ -1,6 +1,6 @@
 # 📄 Currículo Online - Projeto de Estudo
 
-> 🔗 **Link para o projeto online:** [Acesse aqui o meu currículo](https://BrunnoAra.github.io/curriculo-html)
+ 🔗 **Link para o projeto online:** [Acesse aqui o meu currículo](https://BrunnoAra.github.io/curriculo-html)
 
 Este é o meu primeiro projeto prático focado na minha transição de carreira para a área de Tecnologia (TI). Desenvolvi um currículo web responsivo utilizando **HTML5** e **CSS3** totalmente do zero, aplicando conceitos estruturais modernos, semântica web e boas práticas de estilização.
 
@@ -8,7 +8,8 @@ Este é o meu primeiro projeto prático focado na minha transição de carreira 
 
 ## 📸 Demonstração
 
-https://brunnoara.github.io/curriculo-html/
+
+https://BrunnoAra.github.io/curriculo-html/
 
 ---
 
@@ -34,6 +35,8 @@ Estou sempre aberto a novos desafios, troca de experiências e feedback!
 
 * **LinkedIn:**  https://www.linkedin.com/in/brunno-araujo-7b78313ab?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 * **E-mail:** brunnoaraujo12@outlook.com
-* ** ---
+* ** --- ---
+### ✉️ Contato
+Se quiser bater um papo sobre oportunidades ou conhecer mais do meu perfil, [me chama no WhatsApp](https://wa.me/5511983380678)!
 ### ✉️ Contato
 Se quiser bater um papo sobre oportunidades ou conhecer mais do meu perfil, [me chama no WhatsApp](https://wa.me/5511983380678)!
